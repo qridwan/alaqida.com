@@ -36,7 +36,7 @@ export function Introduction() {
           Encyclopedia of Islamic Doctrine in the hope that it will be a useful resource for all Muslims. Shaykh
           Hisham says: <i>&quot;While the permanent relevance of the statements of belief in Al-Aqida is lear, the historical
           weight of the statements can be properly appreciated only if the work is studied with the guidance of some
-          learned person.&auot;</i> Please keep this in mind when reading the text.
+          learned person.&quot;</i> Please keep this in mind when reading the text.
         </p>
         <p className="mt-4">
           May Allah grant him a higher station and more blessings for his efforts in making this available
