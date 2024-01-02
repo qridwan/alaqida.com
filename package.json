@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export && touch docs/.nojekyll && cp CNAME docs/ && cp favicon.ico docs/ && mkdir -p docs/specifications && cp -Rf specifications/* docs/specifications/ && mkdir -p docs/.well-known && cp -Rf .well-known/* docs/.well-known/",
+    "build": "next build && touch docs/.nojekyll && cp CNAME docs/",
     "start": "next start",
     "lint": "next lint"
   },
