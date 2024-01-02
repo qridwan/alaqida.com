@@ -18,7 +18,7 @@ export function Key() {
 
           <ul className="mt-4 ml-7 mr-7 text-gray-700 list-decimal">
             <li>ﷻ - Jalla Jalaal la Hu. Exalted and Glorified. Written and said whenever God&apos;s name Allah is invoked.</li>
-            <li>ﷺ -  Salla Allaahu &apos;alayhi wa Sallam - May Allah bless him and grant him peace. Written and said whenever the Prophet Muhammad is mentioned.</li>
+            <li>ﷺ -  Sal lAllaahu &apos;alayhi wa Sallam - May Allah bless him and grant him peace. Written and said whenever the Prophet Muhammad is mentioned.</li>
             <li>ؓ -  Radi Allah anhu - May Allah be pleased with him (or them). Written and said whenever one of the companions of the Prophet Muhammad is mentioned.</li>
           </ul>
         </Container>
