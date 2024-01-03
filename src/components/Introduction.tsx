@@ -32,19 +32,18 @@ export function Introduction() {
           sometimes we have to read, and re-read, so that that we can remember and continue to remind ourselves of what we believe in and how to live it.
         </p>
         <p className="mt-4">
-          This text has been reproduced here from Book 1 (Beliefs) of Mawalana Shaykh Hisham Kabbani&apos;s
-          Encyclopedia of Islamic Doctrine in the hope that it will be a useful resource for all Muslims. Shaykh
-          Hisham says: <i>&quot;While the permanent relevance of the statements of belief in Al-Aqida is lear, the historical
+          This text has been reproduced here from Book 1 (Beliefs) of Mawalana Shaykh Hisham Kabbani&apos;s (may Allah (ﷻ) grant him a higher station) <i>Encyclopedia of Islamic Doctrine</i> in the hope that it will be a useful resource for all Muslims. Shaykh
+          Hisham says: <i>&quot;While the permanent relevance of the statements of belief in Al-Aqida is clear, the historical
           weight of the statements can be properly appreciated only if the work is studied with the guidance of some
           learned person.&quot;</i> Please keep this in mind when reading the text.
         </p>
         <p className="mt-4">
-          May Allah grant him a higher station and more blessings for his efforts in making this available
+          May Allah (ﷻ) grant him a higher station and more blessings for his efforts in making this available
           to those of little understanding like us, may He bless Imam Tahawi for penning this Aqida, and may
-          He grant us the ability to understand, unite, and practice this.
+          He grant us the ability to understand, unite, and live it.
         </p>
         <p className="mt-4">
-          May Allah forgive us for any mistakes and guide us all to the Straight Path.
+          May Allah (ﷻ) forgive us for any mistakes, may He accept from us, and may He and guide us all to the Straight Path.
         </p>
       </Container>
     </section>
