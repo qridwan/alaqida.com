@@ -43,7 +43,7 @@ export function Introduction() {
           He grant us the ability to understand, unite, and live it.
         </p>
         <p className="mt-4">
-          May Allah (ﷻ) forgive us for any mistakes, may He accept from us, and may He and guide us all to the Straight Path.
+          May Allah (ﷻ) forgive us for any mistakes, may He accept from us, and may He guide us all to the Straight Path.
         </p>
       </Container>
     </section>
